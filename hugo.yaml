@@ -1,8 +1,17 @@
-baseURL: https://example.org/
+baseURL: https://sarahmary-blog.netlify.app/
 languageCode: de-DE
 title: Sarah Marys blog
 
 enableEmoji: true
+
+languageCode: "de-DE"
+defaultContentLanguage: "de"
+defaultContentLanguageInSubdir: false
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 
 module:
   # Uncomment the next line to build and serve using local theme clone declared in the named Hugo workspace:

@@ -1,0 +1,34 @@
+main:
+  - name: "Über mich"
+    pageRef: "/about/"
+    weight: 10
+    params:
+      alias: true
+  - name: "Blog"
+    pageRef: "/blog/"
+    weight: 20
+    params:
+      alias: true
+  - name: "Fotos"
+    pageRef: "/photos/"
+    weight: 30
+    params:
+      alias: true
+  - name: "Optische Täuschungen"
+    pageRef: "/illusions/"
+    weight: 40
+  - parent: "Optische Täuschungen"
+    name: "Hering-Täuschung"
+    pageRef: "/illusions/hering/"
+    weight: 10
+  - parent: "Optische Täuschungen"
+    name: "Müller-Lyer-Illusion"
+    pageRef: "/illusions/mueller-lyer/"
+    weight: 20
+  - parent: "Optische Täuschungen"
+    name: "Schachbrett-Illusion"
+    pageRef: "/illusions/chessboard/"
+    weight: 30
+  - name: "GitHub"
+    url: "https://github.com/deining/sarahblog"
+    weight: 50

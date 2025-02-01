@@ -1,0 +1,9 @@
+de:
+    languageName: "Deutsch"
+    contentDir: "content/de"
+    weight: 1
+
+en:
+    languageName: "English"
+    contentDir: "content/en"
+    weight: 2
