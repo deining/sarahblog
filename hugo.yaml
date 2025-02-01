@@ -2,6 +2,8 @@ baseURL: https://example.org/
 languageCode: de-DE
 title: Sarah Marys blog
 
+enableEmoji: true
+
 module:
   # Uncomment the next line to build and serve using local theme clone declared in the named Hugo workspace:
   # workspace: bs-theme.work
@@ -9,5 +11,5 @@ module:
     extended: true
     min: 0.110.0
   imports:
-    - path: github.com/spech66/bootstrap-bp-hugo-startpage
+    - path: github.com/gethinode/hinode
       disable: false
