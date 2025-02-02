@@ -10,6 +10,10 @@ defaultContentLanguageInSubdir: false
 
 markup:
   goldmark:
+    extensions:
+      extras:
+        superscript:
+          enable: true
     renderer:
       unsafe: true
 
