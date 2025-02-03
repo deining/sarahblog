@@ -13,9 +13,9 @@ Here's a little profile so you can get to know me better:
 * **Age:** 12
 * **Birthday:** December 15^th^
 * **Class:** 6
-* **Favorite color:** <span style="color: white; background-color: #C67986;">old pink</span>
-* **Lieblingsessen**: Wraps with falafel
-* **Favorite food**: Orange juice
+* **Favorite color:** <span style="color: white; padding: 1px 3px 1px 3px; background-color: #C67986;">old pink</span>
+* **Favorite food**: Wraps with falafel
+* **Favorite drink**: Orange juice
 * **Favorite movie**: [Woodwalkers](https://www.youtube.com/watch?v=ntxIqJ6FqBk)
 * **Siblings**: 3
 * **Likes**: shopping, dancing, badminton, jewelry

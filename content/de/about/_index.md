@@ -16,7 +16,7 @@ Hier kommt noch ein kleiner Steckbrief damit ihr mich besser kennenlernen könnt
 * **Alter:** 12
 * **Geburtstag:** 15.Dezember
 * **Klasse:** 6
-* **Lieblingsfarbe:** <span style="color: white; background-color: #C67986;">Altrosa</span>
+* **Lieblingsfarbe:** <span style="color: white; padding: 1px 3px 1px 3px; background-color: #C67986;">Altrosa</span>
 * **Lieblingsessen**: Wraps mit Falafel
 * **Lieblingsgetränk**: Orangensaft
 * **Lieblingsfilm**: [Woodwalkers](https://www.youtube.com/watch?v=ntxIqJ6FqBk)
