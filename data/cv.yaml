@@ -1,0 +1,31 @@
+- title: Tierpässe einscannen
+  icon: fa-solid fa-barcode
+  badge: Erläuterung
+  url: https://www.vitalcontrol.de/docs/neu/massenzugang/
+  color: primary
+  content:
+    Erzeugung neuer Tiere auf dem VitalControl durch Einscannen des Tierpasses. 
+
+- title: Transponder zuordnen
+  icon: fa-solid fa-wifi
+  badge: Erläuterung
+  color: success
+  url: https://www.vitalcontrol.de/docs/zugaenge/zukaeufe-kein-transponder/
+  content:
+    Zuordnung der eingescannten Tiernummern zum jeweiligen Transponder des Tiers.
+
+- title: CSV-Datei exportieren
+  icon: fa-solid fa-file-csv
+  badge: Erläuterung
+  color: dark
+  url: https://www.vitalcontrol.de/docs/zugaenge/zukaeufe-kein-transponder/#new-on-farm-no-transponder
+  content:
+    Export einer CSV-Datei zur Massenmeldung auf einen USB-Stick.
+
+- title: Tiergruppe bei HI-Tier melden (Massenmeldung )
+  icon: fa-solid fa-building-circle-check
+  color: info
+  badge: Erläuterung
+  url: https://www.vitalcontrol.de
+  content:
+    Massenmeldung der Tiergruppe bei HI-Tier mittels der exportierten CSV-Datei.

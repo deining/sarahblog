@@ -4,3 +4,5 @@ draft = false
 title = 'Blog'
 +++
 Coming soon!
+
+{{< timeline data="cv" background="dark" >}}
