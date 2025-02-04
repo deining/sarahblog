@@ -1,0 +1,35 @@
+- title: Birth
+  icon: fa-solid fa-baby-carriage
+  date: 2012-12-15
+  badge: Photos
+  url: https://www.vitalcontrol.de/docs/neu/massenzugang/
+  color: primary
+  content:
+    I was born, what a great day! :)
+
+- title: Enrollment at elementary school
+  icon: fa-solid fa-school
+  badge: Photos
+  date: 2019-08-04
+  color: success
+  url: https://www.vitalcontrol.de/docs/zugaenge/zukaeufe-kein-transponder/
+  content:
+     There's a decision that people have to learn many things.
+
+- title: Holy communion
+  icon: fa-solid fa-church
+  date: 2019-04-15
+  badge: Photos
+  color: dark
+  url: https://www.vitalcontrol.de/docs/zugaenge/zukaeufe-kein-transponder/#new-on-farm-no-transponder
+  content:
+    I had a great party with beautiful weather and delicious food.
+
+- title: Enrollment at grammar school
+  icon: fa-solid fa-graduation-cap
+  badge: Photos
+  color: info
+  date: 2023-08-12
+  url: https://www.vitalcontrol.de
+  content:
+    School enrollment took place before the summer vacations

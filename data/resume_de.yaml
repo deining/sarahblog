@@ -1,0 +1,35 @@
+- title: Geburt
+  icon: fa-solid fa-baby-carriage
+  date: 2012-12-15
+  badge: Bilder
+  url: https://www.vitalcontrol.de/docs/neu/massenzugang/
+  color: primary
+  content:
+    Ich kam auf die Welt, was für ein toller Tag! :)
+
+- title: Einschulung
+  icon: fa-solid fa-school
+  badge: Bilder
+  date: 2019-08-04
+  color: success
+  url: https://www.vitalcontrol.de/docs/zugaenge/zukaeufe-kein-transponder/
+  content:
+    Also lautet ein Beschluß, daß der Mensch was lernen muß.
+
+- title: Kommunion
+  icon: fa-solid fa-church
+  date: 2019-04-15
+  badge: Bilder
+  color: dark
+  url: https://www.vitalcontrol.de/docs/zugaenge/zukaeufe-kein-transponder/#new-on-farm-no-transponder
+  content:
+    Ich hatten eine tolle Feier bei schönstem Wetter und leckerem Essen.
+
+- title: Wechsel aufs Gymnasium
+  icon: fa-solid fa-graduation-cap
+  badge: Bilder
+  color: info
+  date: 2023-08-12
+  url: https://www.vitalcontrol.de
+  content:
+    Die Einschulung fand noch vor den Ferien statt.

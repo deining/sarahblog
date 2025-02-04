@@ -9,6 +9,11 @@ main:
     weight: 20
     params:
       alias: true
+  - name: "Lebenslauf"
+    pageRef: "/resume/"
+    weight: 30
+    params:
+      alias: true
   - name: "Fotos"
     pageRef: "/photos/"
     weight: 30

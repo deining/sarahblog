@@ -14,6 +14,11 @@ main:
     weight: 30
     params:
       alias: true
+  - name: "Resume"
+    pageRef: "/resume/"
+    weight: 30
+    params:
+      alias: true
   - name: "Optical Illusions"
     pageRef: "/illusions/"
     weight: 40
