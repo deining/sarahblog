@@ -19,21 +19,41 @@ main:
     weight: 30
     params:
       alias: true
-  - name: "Optische Täuschungen"
-    pageRef: "/illusions/"
+
+  - name: "Haustiere"
+    pageRef: "/pets/"
     weight: 40
-  - parent: "Optische Täuschungen"
-    name: "Hering-Täuschung"
-    pageRef: "/illusions/hering/"
+  - parent: "Haustiere"
+    name: "Hund"
+    pageRef: "/pets/dog/"
     weight: 10
-  - parent: "Optische Täuschungen"
-    name: "Müller-Lyer-Illusion"
-    pageRef: "/illusions/mueller-lyer/"
+  - parent: "Haustiere"
+    name: "Katze"
+    pageRef: "/pets/cat/"
     weight: 20
-  - parent: "Optische Täuschungen"
-    name: "Schachbrett-Illusion"
-    pageRef: "/illusions/chessboard/"
+  - parent: "Haustiere"
+    name: "Meerschweinchen"
+    pageRef: "/pets/guinea-pig/"
     weight: 30
+
+
+#  - name: "Optische Täuschungen"
+#    pageRef: "/illusions/"
+#    weight: 40
+#  - parent: "Optische Täuschungen"
+#    name: "Hering-Täuschung"
+#    pageRef: "/illusions/hering/"
+#    weight: 10
+#  - parent: "Optische Täuschungen"
+#    name: "Müller-Lyer-Illusion"
+#    pageRef: "/illusions/mueller-lyer/"
+#    weight: 20
+#  - parent: "Optische Täuschungen"
+#    name: "Schachbrett-Illusion"
+#    pageRef: "/illusions/chessboard/"
+#    weight: 30
+
+
   - name: "GitHub"
     url: "https://github.com/deining/sarahblog"
     weight: 50

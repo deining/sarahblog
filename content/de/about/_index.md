@@ -3,10 +3,13 @@ date = '2025-02-01T19:46:49+01:00'
 draft = false
 title = 'Über mich'
 +++
-Huhu, hier auf meiner Homepage teile ich mit euch schöne Fotos und Videos,
-oder auch spannende Blogeinträge und coole Tipps.
-Vielleicht habt ihr ja Lust mal bei mir vorbeizuschauen.
-Das würde mich sehr freuen :smiley:!
+Hi Zusammen! 😘
+
+Willkommen auf meinem Channel!  
+Ich bin Sarah und möchte mit euch coole Fotos/Videos oder auch
+spannende Blog Einträge teilen😊
+Ich nehme euch in meine Alltag mit und wir werden bestimmt viel Spaß zusammen haben!
+Vielleicht gefällt euch meine Homepage ja, das würde mich sehr freuen😉
 
 Hier kommt noch ein kleiner Steckbrief damit ihr mich besser kennenlernen könnt:
 
