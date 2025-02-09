@@ -14,6 +14,8 @@ markup:
       extras:
         superscript:
           enable: true
+    parser:
+      wrapStandAloneImageWithinParagraph: false
     renderer:
       unsafe: true
 
