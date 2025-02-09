@@ -2,7 +2,7 @@
   icon: fa-solid fa-baby-carriage
   date: 2012-12-15
   badge: Bilder
-  url: https://www.vitalcontrol.de/docs/neu/massenzugang/
+  url: #
   color: primary
   content:
     Ich kam auf die Welt, was für ein toller Tag! :)
@@ -12,7 +12,7 @@
   badge: Bilder
   date: 2019-08-04
   color: success
-  url: https://www.vitalcontrol.de/docs/zugaenge/zukaeufe-kein-transponder/
+  url: #
   content:
     Also lautet ein Beschluß, daß der Mensch was lernen muß.
 
@@ -21,7 +21,7 @@
   date: 2019-04-15
   badge: Bilder
   color: dark
-  url: https://www.vitalcontrol.de/docs/zugaenge/zukaeufe-kein-transponder/#new-on-farm-no-transponder
+  url: #
   content:
     Ich hatten eine tolle Feier bei schönstem Wetter und leckerem Essen.
 
@@ -30,6 +30,6 @@
   badge: Bilder
   color: info
   date: 2023-08-12
-  url: https://www.vitalcontrol.de
+  url: #
   content:
     Die Einschulung fand noch vor den Ferien statt.
