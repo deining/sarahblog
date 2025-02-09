@@ -9,8 +9,8 @@ Ich stelle euch meine Meerschweinchen vor.
 Wir haben jetzt seit ungefähr 3 Jahren drei Meerschweinchen.
 Mein Meerschweinchen heißt Krümel und
 ist auf dem Foto mit den zwei Meerschweinchen das Linke.
-Neben Krümel ist in dem Foto Herr Schröder(Das Meerschweinchen
-von meiner Mutter,meine kleine Schwester und ich wollten beide eins haben 
+Neben Krümel ist in dem Foto Herr Schröder (das Meerschweinchen
+meiner Mutter,meine kleine Schwester und ich wollten beide eins haben 
 aber die Züchterin meinte das wir am besten noch ein drittes bräuchten, weil 
 unsere Meerschweinchen noch so klein waren,und das hat dann meine Mutter bekommen).
 Das Meerschweinchen auf dem Einzelfoto heißt Lemon und gehört meiner kleinen Schwester.
@@ -19,10 +19,10 @@ Es ist echt süß sie zu füttern, und ich habe sie sehr gerne.
 
 {{< nav id="links-1" fade="true" >}}
   {{< nav-item header="Lemon" show="true" >}}
-![Hund Rumo](/img/pets/lemon.jpeg)
+![Meerschweinchen Lemon](/img/pets/lemon.jpeg)
   {{< /nav-item >}}
   {{< nav-item header="Krümel und Herr Schröder" >}}
-![Hund Rumo](/img/pets/schroeder_kruemel.jpeg)
+![Meerschweinchen Schröder und Krümel](/img/pets/schroeder_kruemel.jpeg)
   {{< /nav-item >}}
 {{< /nav >}}
 

@@ -1,7 +1,7 @@
 +++
 date = '2025-02-08T18:02:59+01:00'
 draft = false
-title = 'Katze Schnuffel'
+title = 'Kater Schnuffel'
 +++
 
 Hey Leute,
@@ -13,5 +13,4 @@ Trotzdem hab Ich ihn Total lieb und würde ihn nicht eintauschen!
 Funfact: Wir haben ihn  aus dem Urlaub in den Bergen mitgebracht,
 wo er davor auf einem Bauernhof gewohnt hat.
 
-<img alt="Kater Schnuffel" src="/img/pets/schnuffel.jpeg" title="Kater Schnuffel" width="900" />
-
+<img alt="Kater Schnuffel" src="/img/pets/schnuffel.jpg" title="Kater Schnuffel" width="900" />
