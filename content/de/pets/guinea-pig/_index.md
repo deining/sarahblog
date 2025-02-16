@@ -18,10 +18,10 @@ Es ist echt süß sie zu füttern, und ich habe sie sehr gerne.
 
 {{< nav id="links-1" fade="true" >}}
   {{< nav-item header="Lemon" show="true" >}}
-![Hund Rumo](/img/pets/lemon.jpeg)
+![Meerschweinchen Lemon](/img/pets/lemon.jpeg)
   {{< /nav-item >}}
   {{< nav-item header="Krümel und Herr Schröder" >}}
-![Hund Rumo](/img/pets/schroeder_kruemel.jpeg)
+![Meerschweinchen Krümel und Schröder](/img/pets/schroeder_kruemel.jpeg)
   {{< /nav-item >}}
 {{< /nav >}}
 

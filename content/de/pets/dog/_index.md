@@ -16,9 +16,9 @@ Er ist einfach super!
 
 {{< nav id="links-1" fade="true" >}}
   {{< nav-item header="In den Bergen" show="true" >}}
-<img alt="Hund Rumo" src="/img/pets/rumo-1.jpeg" title="Hund Rumo" width="100%" />
+<img alt="Hund Rumo" src="./rumo-1.jpeg" title="Hund Rumo" width="100%" />
   {{< /nav-item >}}
   {{< nav-item header="Wachsam wie immer" >}}
-<img alt="Hund Rumo" src="/img/pets/rumo-2.jpeg" title="Hund Rumo" width="100%" />
+<img alt="Hund Rumo" src="./rumo-2.jpeg" title="Hund Rumo" width="100%" />
   {{< /nav-item >}}
 {{< /nav >}}
