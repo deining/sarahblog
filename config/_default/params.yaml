@@ -1,0 +1,7 @@
+blog:
+  giscus:
+    endpoint: https://giscus.app/
+    repo: deining/sarahblog
+    repo_id: R_kgDONsGncg
+    category: Announcements
+    category_id: DIC_kwDONsGncs4CnNo7

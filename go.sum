@@ -24,6 +24,8 @@ github.com/gethinode/mod-simple-datatables v1.1.7 h1:wCY2bWFUxRHWbWzb/zefCACooCS
 github.com/gethinode/mod-simple-datatables v1.1.7/go.mod h1:FjkIEuxqeLLEqqDcz/nHAGHsRfV7EJP5Uhk4kYD8okY=
 github.com/gethinode/mod-utils/v2 v2.10.0 h1:2GN6f3wcu/TlbzPD6DFlWyx+KomXz6LnBv7mfPIXB6o=
 github.com/gethinode/mod-utils/v2 v2.10.0/go.mod h1:GTYeknoLujNjfDxI+V9Dcug26CYJSTJ0B/U2dagw9oY=
+github.com/hugomods/giscus v0.1.1 h1:Kb8137Cp2nQJPFb6e+CdXy8nyIAJ2dFIymG4bDdaXWI=
+github.com/hugomods/giscus v0.1.1/go.mod h1:tCRkqNi/sMsLh3kjDesXZNzf4R/w+b5oc5boS/l8Jtw=
 github.com/nextapps-de/flexsearch v0.0.0-20240501124520-961c3ae84a87 h1:6PNbL0/LxO8Xl8MZSe5uvCidYNpFTz9nlWTqj2qdlzA=
 github.com/nextapps-de/flexsearch v0.0.0-20240501124520-961c3ae84a87/go.mod h1:5GdMfPAXzbA2gXBqTjC6l27kioSYzHlqDMh0+wyx7sU=
 github.com/spech66/bootstrap-bp-hugo-startpage v0.0.0-20241204092756-3e6de277f620 h1:cRbyFxOIODHmHcZJVa4CwknUHYqQusbpqk60xj+EoAM=
